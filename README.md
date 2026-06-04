@@ -1,2 +1,3 @@
 # European-Energy-Scraper
-Pipeline di web scraping e analisi del mix energetico europeo con NetworkX
+European Energy Mix & CO2 Tracker: A Web Scraping ETL Pipeline
+
