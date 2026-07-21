@@ -1,6 +1,6 @@
 ### European Energy Mix & CO2 Tracker: A Web Scraping ETL Pipeline
 
-Descrizione
+# Descrizione
 
 Progetto di raccolta e analisi del mix energetico europeo tramite web scraping del sito Nowtricity. Il dataset copre 26 paesi europei dal 2018 al 2025 (2.220 osservazioni) e include emissioni di CO₂, percentuale di rinnovabili e composizione dettagliata per fonte energetica.
 
