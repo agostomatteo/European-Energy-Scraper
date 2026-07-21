@@ -1,22 +1,10 @@
-# European Energy Mix & CO2 Tracker: A Web Scraping ETL Pipeline
+### European Energy Mix & CO2 Tracker: A Web Scraping ETL Pipeline
 
 Descrizione
 
-Progetto di raccolta e analisi del mix energetico europeo tramite web scraping
+Progetto di raccolta e analisi del mix energetico europeo tramite web scraping del sito Nowtricity. Il dataset copre 26 paesi europei dal 2018 al 2025 (2.220 osservazioni) e include emissioni di CO₂, percentuale di rinnovabili e composizione dettagliata per fonte energetica.
 
- 
-
- del sito Nowtricity. Il dataset copre 26 paesi europei
-
- 
-
- dal 2018 al 2025 (2.220 osservazioni) e include emissioni di CO₂, percentuale
-
- 
-
- di rinnovabili e composizione dettagliata per fonte energetica.
-
-Struttura del progetto
+# Struttura del progetto
 
 european-energy-scraper/
 
@@ -44,14 +32,13 @@ european-energy-scraper/
 
  
 
-Come riprodurre i risultati
+# Come riprodurre i risultati
 
 1. Installa le dipendenze
 
 pip install -r requirements.txt
 
  
-
 2. Esegui i notebook in ordine
 
 0.Exploration.ipynb    → ispezione del sito
@@ -63,7 +50,6 @@ pip install -r requirements.txt
  Analisi.ipynb          → analisi e visualizzazioni
 
  
-
 Il dataset processato è già incluso in * data/processed/ * —
 
  *
